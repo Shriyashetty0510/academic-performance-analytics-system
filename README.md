@@ -3,7 +3,9 @@
 
 ## 🎥 Project Demo
 
+📹 **Demo Video:**  
 https://github.com/user-attachments/assets/31302e6c-be14-43f0-88fb-1dcf8e2824c7
+
 A short demonstration of the Academic Performance Analytics System showcasing role-based access, attendance tracking, GPA reporting, and predictive analytics.
 
 ## 📌 Overview
