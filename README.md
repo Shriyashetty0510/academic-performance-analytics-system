@@ -1,5 +1,10 @@
 # 🎓 Academic Performance Analytics System (APAS)
 
+## 🎥 Project Demo
+
+<demo.mp4>
+A short demonstration of the Academic Performance Analytics System showcasing role-based access, attendance tracking, GPA reporting, and predictive analytics.
+
 ## 📌 Overview
 
 Academic Performance Analytics System (APAS) is a role-based web application designed to streamline academic monitoring and performance analysis within educational institutions.
